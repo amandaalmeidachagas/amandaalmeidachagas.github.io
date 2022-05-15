@@ -1,0 +1,116 @@
+.wrapper { 
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 20px;
+}
+
+h2 {
+    color: #E63E6D;
+}
+
+.nome {
+    color: #11cde6;
+    font-size: 30px;
+}
+
+.cargo {
+    font-size: 25px;
+}
+
+.button {
+    display: inline-block;
+    padding: 9px 20px;
+    background-color: #11cde6;
+    color: #180A0A;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #E63E6D;
+    color: #e9c4cf;
+}
+
+body {
+    margin: 0;
+    background-color: #180A0A;
+}
+
+h3 {
+    color: #E63E6D;
+}
+
+.skills-lista {
+    color: #e9c4cf;
+}
+
+.life {
+    color: #e9c4cf;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Dancing Script', cursive;
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.foto-amanda {
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+    border: 5px solid #11cde6;
+}
+
+.cabecalho {
+    background-color: #E63E6D;
+    color: #e9c4cf;
+    padding: 5px 0;
+    margin-bottom: 20px;
+}
+
+.cabecalho .wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo-principal {
+    margin: 0;
+}
+
+.destaque {
+    display: flex;
+    justify-content: space-between;
+}
+.skills {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.social-icon {
+    display: inline-block;
+    background-color: #e9c4cf;
+    padding: 5px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.social-icon:hover {
+    background: #11cde6;
+}
+
+.box {
+    width: 50%;
+}
+
