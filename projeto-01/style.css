@@ -13,7 +13,15 @@ h1 , h2 {
   top: 0;
   width: 100%;
 }
+.button {
 
+    display: inline-block;
+    padding: 9px 20px;
+    background-color:#345B63;
+    color: rgb(162, 179, 139);;
+    border-radius: 30px;
+    text-decoration: none;
+}
 p {
   line-height: 120%;
 }
